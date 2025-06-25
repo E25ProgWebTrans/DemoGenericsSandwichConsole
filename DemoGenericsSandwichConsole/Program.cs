@@ -56,7 +56,7 @@ for(int i = 0; i < sandwichIngredients.Count; i++)
 }*/
 
 // Exemple IngredientManager
-Console.WriteLine();
+/*Console.WriteLine();
 Console.WriteLine("Exemple Ingredient Manager");
 var ingredientManager = new IngredientManager();
 
@@ -65,7 +65,7 @@ for (int i = 0; i < sandwichIngredients2.Count; i++)
 {
     Ingredient item = sandwichIngredients2[i];
     Console.WriteLine(item);
-}
+}*/
 
 // Exemple IReadOnlyList
 // Comme les méthodes FaireUnSandwich et FaireUnHorribleSandwich retournent des IReadOnlyList, on n'a pas accès à des méthodes comme Add
